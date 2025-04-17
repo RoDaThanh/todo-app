@@ -1,7 +1,7 @@
-## Đây là source code của ứng dụng TODO APP bằng React + Redux
-Video tutorial: https://youtu.be/g_K1w8e0lLo \
-Live Demo: https://focused-engelbart-3d0ac1.netlify.app/ \
-**⚠️ Lưu ý**: Source code chạy ổn định trên Node 16
+## This res from HoleTex: 
+Orinal repo: https://github.com/holetexvn/todo-app-redux \
+
+**⚠️ Note **: Source code is working with Node 16
 
 # Getting Started with Create React App
 
